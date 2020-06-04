@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php /Users/kimsungmin/myCommands/write_prac.php $1
